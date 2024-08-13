@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farrux-yo-ldoshov-a6222b316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farrux-yo-ldoshov-a6222b316" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farrux yo'ldoshov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrux yo'ldoshov" height="30" width="40" /></a>
 <a href="https://fb.com/farrux.yo.ldoshev.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farrux.yo.ldoshev.2024" height="30" width="40" /></a>
 <a href="https://instagram.com/farrux_2409___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farrux_2409___" height="30" width="40" /></a>
 </p>
